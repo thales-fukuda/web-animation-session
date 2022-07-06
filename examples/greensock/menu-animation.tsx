@@ -39,7 +39,7 @@ const MenuAnimation = () => {
 
   return (
     <AnimationExample
-      title={'Menu animation'}
+      title={'GreenSock'}
       element={
         <Menu ref={menu}>
           <MenuOption id={'firstOptionGsap'}>option 1</MenuOption>

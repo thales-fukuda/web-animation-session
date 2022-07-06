@@ -47,7 +47,7 @@ const MenuAnimation = () => {
 
   return (
     <AnimationExample
-      title={'Menu animation'}
+      title={'anime.js'}
       element={
         <Menu ref={menu}>
           <MenuOption id={'firstOptionAnime'}>option 1</MenuOption>

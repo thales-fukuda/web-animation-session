@@ -65,7 +65,7 @@ const MenuAnimation = () => {
 
   return (
     <AnimationExample
-      title={'Menu animation'}
+      title={'framer-motion'}
       element={
         isAnimating ? (
           <MenuAnimated />
